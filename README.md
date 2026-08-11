@@ -1,7 +1,6 @@
 # 💫 About Me
-
-🔭 MSc Applied Data Science (University of Essex) — I build **end-to-end ML systems**, from data prep and modeling to deployment and monitoring.
-🧠 Deep Learning · Feature Engineering · Model Evaluation · MLOps
+🔭 MSc Applied Data Science (University of Essex) — I build **end-to-end ML systems**, from data prep and modeling to deployment and monitoring.<br>
+🧠 Deep Learning · Feature Engineering · Model Evaluation · MLOps<br>
 🎯 Targeting **ML Engineer** roles — focused on reproducible, production-ready ML with rigorous, honest evaluation.
 
 
