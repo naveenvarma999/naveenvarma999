@@ -1,16 +1,8 @@
 # 💫 About Me
 
-🔭 MSc Applied Data Science (University of Essex) — building **end-to-end ML solutions**, from data prep and model development to deployment and monitoring.
-
-🧠 Focus areas: **Deep Learning, Feature Engineering, Model Evaluation, and MLOps**. Recent work includes a pneumonia-detection dissertation (ResNet50, DenseNet121, EfficientNetB0, custom CNN) with patient-grouped splits and leakage controls.
-
-⚙️ Core stack: **Python, SQL, TensorFlow/Keras, Scikit-learn, Pandas**.
-
-🚀 Deployment & MLOps: **FastAPI, Docker, GitHub Actions (CI/CD)** — currently deepening MLflow, DVC, and monitoring (Evidently).
-
-📊 I care about **reproducible, production-ready ML** with rigorous evaluation and honest reporting of results.
-
-💬 Ask me about **Machine Learning, Deep Learning, Data Science, Python, SQL, Docker, and MLOps**.
+🔭 MSc Applied Data Science (University of Essex) — I build **end-to-end ML systems**, from data prep and modeling to deployment and monitoring.
+🧠 Deep Learning · Feature Engineering · Model Evaluation · MLOps
+🎯 Targeting **ML Engineer** roles — focused on reproducible, production-ready ML with rigorous, honest evaluation.
 
 
 ## 🌐 Socials
