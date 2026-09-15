@@ -23,6 +23,7 @@
   <a href="#about-me">About</a> &nbsp; / &nbsp;
   <a href="#how-i-think-about-ml">Approach</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#github-observatory">Analytics</a> &nbsp; / &nbsp;
   <a href="#lets-connect">Contact</a>
 </p>
 
@@ -38,6 +39,18 @@ My work explores **computer vision, customer engagement prediction and time-seri
 - **Engineering:** inference interfaces, reproducible workflows and testing.
 - **Growing focus:** experiment tracking, deployment automation and monitoring.
 
+## How I think about ML
+
+**A useful model needs a clear question, credible evidence and a reliable path to use.**
+
+| Stage | Questions that matter | Evidence to aim for |
+| :--- | :--- | :--- |
+| **01 · Understand** | What decision will this support? What does the data miss? | Problem definition, data checks, exploratory analysis |
+| **02 · Experiment** | What is the baseline? Which features and assumptions matter? | Reproducible experiments and documented comparisons |
+| **03 · Evaluate** | Does it generalize? Where does it fail? | Appropriate splits, error analysis and clear limitations |
+| **04 · Engineer** | Can someone run it, test it and maintain it? | Packaged inference, tests, versioning and monitoring |
+
+This is the standard I'm working toward in my ML practice.
 
 ## Toolkit
 
@@ -64,6 +77,7 @@ My work explores **computer vision, customer engagement prediction and time-seri
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" height="28">
   <img src="https://img.shields.io/badge/Flask-232F3E?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" height="28">
 </p>
 
 ### Engineering & MLOps
@@ -83,13 +97,44 @@ My work explores **computer vision, customer engagement prediction and time-seri
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="36" height="36">
-  <strong>Matplotlib</strong>
+  <strong>Matplotlib</strong> · Time-series analysis · Feature engineering
 </p>
 
+## GitHub Observatory
+
+<p align="center">
+  <a href="https://naveenvarma999.github.io/naveenvarma999/">
+    <img src="./analytics/dashboard-overview.png" alt="GitHub analytics dashboard: contribution totals, active days, longest streak, repository count, activity trends, language mix, calendar heatmap and weekday totals." width="1120">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://naveenvarma999.github.io/naveenvarma999/"><strong>Explore the interactive dashboard →</strong></a><br>
+  <sub>Date filters · 3D rotation · Daily detail · CSV export</sub>
+</p>
+
+<!-- The interactive link becomes available after enabling GitHub Pages and running the included workflow. See START-HERE.md. -->
+
+### Contributions in motion
+
+<p align="center">
+  <img src="./analytics/contributions-3d.gif" alt="Animated 3D contribution calendar with heights representing real daily activity and a decorative moving highlight." width="1120">
+</p>
+
+<p align="center">
+  <a href="./analytics/contributions-3d.png">Still version</a> ·
+  <a href="./analytics/activity.json">Contribution data</a>
+</p>
+
+<sub>Public GitHub activity; snapshot dates are shown on the charts. The included workflow refreshes the figures daily after installation. Repository and language totals describe the account snapshot. Contributions are activity indicators, not a measure of skill or code quality.</sub>
+
 ## Let's connect
+
+I'm interested in **ML Engineer roles** and conversations about applied ML, model evaluation and reliable delivery.
 
 **[LinkedIn](https://www.linkedin.com/in/naveenvarma000/) · [Email](mailto:naveennallapu750@gmail.com) · [LeetCode](https://leetcode.com/u/naveenvarma999/)**
 
 <p align="center">
   <sub>Curiosity drives the experiment. Evidence earns the conclusion.</sub>
 </p>
+
