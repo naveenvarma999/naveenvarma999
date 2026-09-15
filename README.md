@@ -21,7 +21,6 @@
 
 <p align="center">
   <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="#how-i-think-about-ml">Approach</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
   <a href="#lets-connect">Contact</a>
@@ -38,77 +37,6 @@ My work explores **computer vision, customer engagement prediction and time-seri
 - **Modeling:** deep learning, feature engineering and model comparison.
 - **Engineering:** inference interfaces, reproducible workflows and testing.
 - **Growing focus:** experiment tracking, deployment automation and monitoring.
-
-## Selected work
-
-### 01 / Computer vision
-### [Pneumonia detection](https://github.com/naveenvarma999/Pneumonia-Detection)
-
-An image-classification experiment connecting a Keras model to a Flask upload-and-predict interface.
-
-**Flow:** Chest X-ray → resize and normalize → model inference → classification response  
-**Stack:** Python · TensorFlow · Keras · Flask
-
-<details>
-<summary><strong>Explore the implementation</strong></summary>
-
-- The inference application prepares images at **224 × 224** and normalizes pixel values.
-- The project includes a notebook and a Flask application.
-- The application expects a separate trained model artifact.
-- **Scope:** a research prototype; no clinical validation is claimed.
-
-[Inspect the application →](https://github.com/naveenvarma999/Pneumonia-Detection/blob/main/app2.py)
-
-</details>
-
----
-
-### 02 / Predictive analytics
-### [Email campaign prediction](https://github.com/naveenvarma999/Email_Marketing_Campaign)
-
-An interactive Streamlit application exploring email engagement from customer and behavioral signals.
-
-**Flow:** Customer inputs → feature encoding → Random Forest → prediction and probability  
-**Stack:** Python · Pandas · Random Forest · Streamlit
-
-<details>
-<summary><strong>Explore the implementation</strong></summary>
-
-- The application uses **nine inputs**, including engagement behavior and device type.
-- The repository contains a notebook, model artifact, label encoder and presentation.
-- The interface returns both a predicted class and a probability.
-- **Scope:** an implemented prediction workflow; campaign uplift and production impact have not been established.
-
-[Inspect the application →](https://github.com/naveenvarma999/Email_Marketing_Campaign/blob/main/app1.py)
-
-</details>
-
----
-
-### 03 / Time-series modeling
-### [Stock-price forecasting](https://github.com/naveenvarma999/Stock-Price-Prediction)
-
-An exploratory notebook comparing statistical and neural approaches to forecasting closing prices.
-
-**Flow:** Historical series → exploration → model comparison → error analysis  
-**Stack:** ARIMA · SARIMAX · Prophet · TensorFlow / LSTM
-
-<details>
-<summary><strong>Explore the methods</strong></summary>
-
-- Includes visual exploration, differencing and autocorrelation analysis.
-- Explores ARIMA, SARIMAX, Prophet and stacked LSTM models.
-- Calculates MAE, MSE and RMSE.
-- **Next evaluation improvement:** reserve an untouched test period separate from validation before drawing final model comparisons.
-- **Scope:** forecasting research, not an investment-performance claim.
-
-[Explore the notebook →](https://github.com/naveenvarma999/Stock-Price-Prediction)
-
-</details>
-
-<p align="right">
-  <a href="https://github.com/naveenvarma999?tab=repositories"><strong>Explore all repositories →</strong></a>
-</p>
 
 ## How I think about ML
 
@@ -163,19 +91,13 @@ This is the standard I'm working toward across my projects.
 ### Analysis & visualization
 
 <p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" height="28">
+</p>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="36" height="36">
   <strong>Matplotlib</strong> · Time-series analysis · Feature engineering
 </p>
-
-<details>
-<summary><strong>Engineering practice & learning repositories</strong></summary>
-
-- [MLOps learning](https://github.com/naveenvarma999/MLOps_Learning) — Python testing practice.
-- [CI/CD practice](https://github.com/naveenvarma999/CI-CD-mastery) — a repository for learning delivery automation.
-- [Data structures & algorithms](https://github.com/naveenvarma999/DSA_Practice) — problem-solving practice.
-- [LeetCode](https://leetcode.com/u/naveenvarma999/) — my coding profile.
-
-</details>
 
 ## Let's connect
 
@@ -186,4 +108,3 @@ I'm interested in **ML Engineer roles** and conversations about applied ML, mode
 <p align="center">
   <sub>Curiosity drives the experiment. Evidence earns the conclusion.</sub>
 </p>
-
