@@ -39,18 +39,6 @@ My work explores **computer vision, customer engagement prediction and time-seri
 - **Engineering:** inference interfaces, reproducible workflows and testing.
 - **Growing focus:** experiment tracking, deployment automation and monitoring.
 
-## How I think about ML
-
-**A useful model needs a clear question, credible evidence and a reliable path to use.**
-
-| Stage | Questions that matter | Evidence to aim for |
-| :--- | :--- | :--- |
-| **01 · Understand** | What decision will this support? What does the data miss? | Problem definition, data checks, exploratory analysis |
-| **02 · Experiment** | What is the baseline? Which features and assumptions matter? | Reproducible experiments and documented comparisons |
-| **03 · Evaluate** | Does it generalize? Where does it fail? | Appropriate splits, error analysis and clear limitations |
-| **04 · Engineer** | Can someone run it, test it and maintain it? | Packaged inference, tests, versioning and monitoring |
-
-This is the standard I'm working toward in my ML practice.
 
 ## Toolkit
 
