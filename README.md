@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./assets/neural-banner.gif" alt="Naveen Varma — Turning complexity into intelligence. A rotating 3D neural field and an animated Data → Model → Evaluate → Deploy pipeline." width="1120">
 </p>
-
 <p align="center">
   <a href="./assets/neural-banner.png">View a still version of the banner</a>
 </p>
