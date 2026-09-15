@@ -1,34 +1,155 @@
-# 💫 About Me
-🔭 MSc Applied Data Science (University of Essex) — I build **end-to-end ML systems**, from data prep and modeling to deployment and monitoring.<br>
-🧠 Deep Learning · Feature Engineering · Model Evaluation · MLOps<br>
-🎯 Targeting **ML Engineer** roles — focused on reproducible, production-ready ML with rigorous, honest evaluation.
+<p align="center">
+  <img src="./assets/neural-banner.gif" alt="Naveen Varma — Turning complexity into intelligence. A rotating 3D neural field and an animated Data → Model → Evaluate → Deploy pipeline." width="1120">
+</p>
 
+<p align="center">
+  <a href="./assets/neural-banner.png">View a still version of the banner</a>
+</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenvarma000/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveennallapu750@gmail.com)
+<h1 align="center">Hi, I'm Naveen Varma.</h1>
+<p align="center">
+  <strong>Machine Learning Engineering · Data Science · MLOps</strong><br>
+  MSc Applied Data Science · University of Essex<br>
+  Exploring the complete journey from raw data to useful ML systems.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveenvarma000/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101B20?style=for-the-badge&amp;logo=linkedin&amp;logoColor=B5F5D2" alt="Connect on LinkedIn"></a>
+  <a href="mailto:naveennallapu750@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-101B20?style=for-the-badge&amp;logo=gmail&amp;logoColor=B5F5D2" alt="Email Naveen"></a>
+  <a href="https://leetcode.com/u/naveenvarma999/"><img src="https://img.shields.io/badge/LeetCode-Problem_solving-101B20?style=for-the-badge&amp;logo=leetcode&amp;logoColor=B5F5D2" alt="LeetCode profile"></a>
+</p>
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=naveenvarma999&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=naveenvarma999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenvarma999&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#how-i-think-about-ml">Approach</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Contact</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=naveenvarma999&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About me
+
+I'm focused on **ML Engineer opportunities**, with an interest in reproducible systems and rigorous, honest evaluation.
+
+My work explores **computer vision, customer engagement prediction and time-series forecasting**. I'm interested in more than fitting a model: understanding the data, choosing a useful baseline, investigating errors and connecting predictions to an application.
+
+- **Modeling:** deep learning, feature engineering and model comparison.
+- **Engineering:** inference interfaces, reproducible workflows and testing.
+- **Growing focus:** experiment tracking, deployment automation and monitoring.
+
+## Selected work
+
+### 01 / Computer vision
+### [Pneumonia detection](https://github.com/naveenvarma999/Pneumonia-Detection)
+
+An image-classification experiment connecting a Keras model to a Flask upload-and-predict interface.
+
+**Flow:** Chest X-ray → resize and normalize → model inference → classification response  
+**Stack:** Python · TensorFlow · Keras · Flask
+
+<details>
+<summary><strong>Explore the implementation</strong></summary>
+
+- The inference application prepares images at **224 × 224** and normalizes pixel values.
+- The project includes a notebook and a Flask application.
+- The application expects a separate trained model artifact.
+- **Scope:** a research prototype; no clinical validation is claimed.
+
+[Inspect the application →](https://github.com/naveenvarma999/Pneumonia-Detection/blob/main/app2.py)
+
+</details>
+
+---
+
+### 02 / Predictive analytics
+### [Email campaign prediction](https://github.com/naveenvarma999/Email_Marketing_Campaign)
+
+An interactive Streamlit application exploring email engagement from customer and behavioral signals.
+
+**Flow:** Customer inputs → feature encoding → Random Forest → prediction and probability  
+**Stack:** Python · Pandas · Random Forest · Streamlit
+
+<details>
+<summary><strong>Explore the implementation</strong></summary>
+
+- The application uses **nine inputs**, including engagement behavior and device type.
+- The repository contains a notebook, model artifact, label encoder and presentation.
+- The interface returns both a predicted class and a probability.
+- **Scope:** an implemented prediction workflow; campaign uplift and production impact have not been established.
+
+[Inspect the application →](https://github.com/naveenvarma999/Email_Marketing_Campaign/blob/main/app1.py)
+
+</details>
+
+---
+
+### 03 / Time-series modeling
+### [Stock-price forecasting](https://github.com/naveenvarma999/Stock-Price-Prediction)
+
+An exploratory notebook comparing statistical and neural approaches to forecasting closing prices.
+
+**Flow:** Historical series → exploration → model comparison → error analysis  
+**Stack:** ARIMA · SARIMAX · Prophet · TensorFlow / LSTM
+
+<details>
+<summary><strong>Explore the methods</strong></summary>
+
+- Includes visual exploration, differencing and autocorrelation analysis.
+- Explores ARIMA, SARIMAX, Prophet and stacked LSTM models.
+- Calculates MAE, MSE and RMSE.
+- **Next evaluation improvement:** reserve an untouched test period separate from validation before drawing final model comparisons.
+- **Scope:** forecasting research, not an investment-performance claim.
+
+[Explore the notebook →](https://github.com/naveenvarma999/Stock-Price-Prediction)
+
+</details>
+
+<p align="right">
+  <a href="https://github.com/naveenvarma999?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
+
+## How I think about ML
+
+**A useful model needs a clear question, credible evidence and a reliable path to use.**
+
+| Stage | Questions that matter | Evidence to aim for |
+| :--- | :--- | :--- |
+| **01 · Understand** | What decision will this support? What does the data miss? | Problem definition, data checks, exploratory analysis |
+| **02 · Experiment** | What is the baseline? Which features and assumptions matter? | Reproducible experiments and documented comparisons |
+| **03 · Evaluate** | Does it generalize? Where does it fail? | Appropriate splits, error analysis and clear limitations |
+| **04 · Engineer** | Can someone run it, test it and maintain it? | Packaged inference, tests, versioning and monitoring |
+
+This is the standard I'm working toward across my projects.
+
+## Toolkit
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages & data** | Python · SQL · Pandas · NumPy |
+| **Machine learning** | scikit-learn · TensorFlow · Keras |
+| **Analysis & visualization** | Matplotlib · time-series analysis · feature engineering |
+| **Applications & serving** | FastAPI · Flask · Streamlit |
+| **Engineering & MLOps** | Git · Docker · GitHub Actions · MLflow |
+
+<details>
+<summary><strong>Engineering practice & learning repositories</strong></summary>
+
+- [MLOps learning](https://github.com/naveenvarma999/MLOps_Learning) — Python testing practice.
+- [CI/CD practice](https://github.com/naveenvarma999/CI-CD-mastery) — a repository for learning delivery automation.
+- [Data structures & algorithms](https://github.com/naveenvarma999/DSA_Practice) — problem-solving practice.
+- [LeetCode](https://leetcode.com/u/naveenvarma999/) — my coding profile.
+
+</details>
+
+## Let's connect
+
+I'm interested in **ML Engineer roles** and conversations about applied ML, model evaluation and reliable delivery.
+
+**[LinkedIn](https://www.linkedin.com/in/naveenvarma000/) · [Email](mailto:naveennallapu750@gmail.com) · [LeetCode](https://leetcode.com/u/naveenvarma999/)**
+
+<p align="center">
+  <sub>Curiosity drives the experiment. Evidence earns the conclusion.</sub>
+</p>
+
