@@ -38,18 +38,6 @@ My work explores **computer vision, customer engagement prediction and time-seri
 - **Engineering:** inference interfaces, reproducible workflows and testing.
 - **Growing focus:** experiment tracking, deployment automation and monitoring.
 
-## How I think about ML
-
-**A useful model needs a clear question, credible evidence and a reliable path to use.**
-
-| Stage | Questions that matter | Evidence to aim for |
-| :--- | :--- | :--- |
-| **01 · Understand** | What decision will this support? What does the data miss? | Problem definition, data checks, exploratory analysis |
-| **02 · Experiment** | What is the baseline? Which features and assumptions matter? | Reproducible experiments and documented comparisons |
-| **03 · Evaluate** | Does it generalize? Where does it fail? | Appropriate splits, error analysis and clear limitations |
-| **04 · Engineer** | Can someone run it, test it and maintain it? | Packaged inference, tests, versioning and monitoring |
-
-This is the standard I'm working toward across my projects.
 
 ## Toolkit
 
@@ -76,7 +64,6 @@ This is the standard I'm working toward across my projects.
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" height="28">
   <img src="https://img.shields.io/badge/Flask-232F3E?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" height="28">
 </p>
 
 ### Engineering & MLOps
@@ -96,12 +83,10 @@ This is the standard I'm working toward across my projects.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="36" height="36">
-  <strong>Matplotlib</strong> · Time-series analysis · Feature engineering
+  <strong>Matplotlib</strong>
 </p>
 
 ## Let's connect
-
-I'm interested in **ML Engineer roles** and conversations about applied ML, model evaluation and reliable delivery.
 
 **[LinkedIn](https://www.linkedin.com/in/naveenvarma000/) · [Email](mailto:naveennallapu750@gmail.com) · [LeetCode](https://leetcode.com/u/naveenvarma999/)**
 
