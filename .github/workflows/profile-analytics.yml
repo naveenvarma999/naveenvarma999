@@ -1,0 +1,63 @@
+name: Update GitHub Analytics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'dashboard/template.html'
+      - '.github/workflows/profile-analytics.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-observatory
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==12.3.0
+      - name: Refresh contribution calendar
+        run: python scripts/update_analytics.py
+      - name: Build interactive dashboard and README overview
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_dashboard.py
+      - name: Save refreshed analytics
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analytics/activity.json analytics/repositories.json analytics/contributions-3d.gif analytics/contributions-3d.png analytics/activity-summary.png analytics/dashboard-overview.png dashboard/index.html
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'Refresh GitHub Observatory analytics'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dashboard
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
