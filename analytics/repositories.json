@@ -1,1 +1,266 @@
-{"fetched_at":"2026-09-15T04:46:35.429Z","repos":[{"name":"API","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-07-23T18:55:37Z","url":"https://github.com/naveenvarma999/API"},{"name":"Assignment","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-03-05T09:20:07Z","url":"https://github.com/naveenvarma999/Assignment"},{"name":"CI-CD-mastery","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-08-12T12:54:49Z","url":"https://github.com/naveenvarma999/CI-CD-mastery"},{"name":"Database","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-08-18T14:38:23Z","url":"https://github.com/naveenvarma999/Database"},{"name":"DBMS","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2026-01-04T18:52:42Z","url":"https://github.com/naveenvarma999/DBMS"},{"name":"Docker","language":"Java","stars":0,"forks":0,"fork":false,"updated_at":"2026-07-21T12:01:38Z","url":"https://github.com/naveenvarma999/Docker"},{"name":"DSA_Practice","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2025-11-25T09:14:40Z","url":"https://github.com/naveenvarma999/DSA_Practice"},{"name":"Email_Marketing_Campaign","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-02-05T15:35:01Z","url":"https://github.com/naveenvarma999/Email_Marketing_Campaign"},{"name":"Flask","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2025-11-10T21:25:30Z","url":"https://github.com/naveenvarma999/Flask"},{"name":"gdp-dashboard","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2024-09-15T09:57:24Z","url":"https://github.com/naveenvarma999/gdp-dashboard"},{"name":"git-mastery-roadmap","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-08-20T18:28:57Z","url":"https://github.com/naveenvarma999/git-mastery-roadmap"},{"name":"Intern-Assignment","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-03-27T00:19:03Z","url":"https://github.com/naveenvarma999/Intern-Assignment"},{"name":"jobtrackr","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-09-09T11:52:51Z","url":"https://github.com/naveenvarma999/jobtrackr"},{"name":"kubernetes-AdvanceLevel","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2026-08-17T17:49:49Z","url":"https://github.com/naveenvarma999/kubernetes-AdvanceLevel"},{"name":"mlops_cou","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2026-01-01T13:51:49Z","url":"https://github.com/naveenvarma999/mlops_cou"},{"name":"MLOps_Learning","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2025-11-27T05:59:27Z","url":"https://github.com/naveenvarma999/MLOps_Learning"},{"name":"Mywork","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2025-04-13T05:32:29Z","url":"https://github.com/naveenvarma999/Mywork"},{"name":"naveenvarma999","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2026-09-15T04:34:13Z","url":"https://github.com/naveenvarma999/naveenvarma999"},{"name":"Numpy","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-12-04T12:16:22Z","url":"https://github.com/naveenvarma999/Numpy"},{"name":"Pneumonia-Detection","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-02-14T17:18:41Z","url":"https://github.com/naveenvarma999/Pneumonia-Detection"},{"name":"Project1","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-01-27T14:00:56Z","url":"https://github.com/naveenvarma999/Project1"},{"name":"Python_Pract","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2026-01-07T18:03:57Z","url":"https://github.com/naveenvarma999/Python_Pract"},{"name":"R_Programming","language":"R","stars":0,"forks":0,"fork":false,"updated_at":"2025-12-07T10:15:47Z","url":"https://github.com/naveenvarma999/R_Programming"},{"name":"SQL","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2026-09-08T14:42:04Z","url":"https://github.com/naveenvarma999/SQL"},{"name":"Stock-Price-Prediction","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-02-06T16:08:08Z","url":"https://github.com/naveenvarma999/Stock-Price-Prediction"},{"name":"Strings","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2026-02-26T16:39:30Z","url":"https://github.com/naveenvarma999/Strings"},{"name":"Tableau-Visualizations","language":null,"stars":0,"forks":0,"fork":false,"updated_at":"2025-03-09T03:05:13Z","url":"https://github.com/naveenvarma999/Tableau-Visualizations"},{"name":"taskmanager","language":"Python","stars":0,"forks":0,"fork":false,"updated_at":"2025-12-22T16:57:46Z","url":"https://github.com/naveenvarma999/taskmanager"},{"name":"Titanic","language":"Jupyter Notebook","stars":0,"forks":0,"fork":false,"updated_at":"2025-02-04T09:00:53Z","url":"https://github.com/naveenvarma999/Titanic"}]}
+{
+  "fetched_at": "2026-09-15T10:08:15.710272+00:00",
+  "repos": [
+    {
+      "name": "API",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-07-23T18:55:37Z",
+      "url": "https://github.com/naveenvarma999/API"
+    },
+    {
+      "name": "Assignment",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-03-05T09:20:07Z",
+      "url": "https://github.com/naveenvarma999/Assignment"
+    },
+    {
+      "name": "CI-CD-mastery",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-08-12T12:54:49Z",
+      "url": "https://github.com/naveenvarma999/CI-CD-mastery"
+    },
+    {
+      "name": "Database",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-08-18T14:38:23Z",
+      "url": "https://github.com/naveenvarma999/Database"
+    },
+    {
+      "name": "DBMS",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-01-04T18:52:42Z",
+      "url": "https://github.com/naveenvarma999/DBMS"
+    },
+    {
+      "name": "Docker",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-07-21T12:01:38Z",
+      "url": "https://github.com/naveenvarma999/Docker"
+    },
+    {
+      "name": "DSA_Practice",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-11-25T09:14:40Z",
+      "url": "https://github.com/naveenvarma999/DSA_Practice"
+    },
+    {
+      "name": "Email_Marketing_Campaign",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-02-05T15:35:01Z",
+      "url": "https://github.com/naveenvarma999/Email_Marketing_Campaign"
+    },
+    {
+      "name": "Flask",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-11-10T21:25:30Z",
+      "url": "https://github.com/naveenvarma999/Flask"
+    },
+    {
+      "name": "gdp-dashboard",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2024-09-15T09:57:24Z",
+      "url": "https://github.com/naveenvarma999/gdp-dashboard"
+    },
+    {
+      "name": "git-mastery-roadmap",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-08-20T18:28:57Z",
+      "url": "https://github.com/naveenvarma999/git-mastery-roadmap"
+    },
+    {
+      "name": "Intern-Assignment",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-03-27T00:19:03Z",
+      "url": "https://github.com/naveenvarma999/Intern-Assignment"
+    },
+    {
+      "name": "jobtrackr",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-09-09T11:52:51Z",
+      "url": "https://github.com/naveenvarma999/jobtrackr"
+    },
+    {
+      "name": "kubernetes-AdvanceLevel",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-08-17T17:49:49Z",
+      "url": "https://github.com/naveenvarma999/kubernetes-AdvanceLevel"
+    },
+    {
+      "name": "mlops_cou",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-01-01T13:51:49Z",
+      "url": "https://github.com/naveenvarma999/mlops_cou"
+    },
+    {
+      "name": "MLOps_Learning",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-11-27T05:59:27Z",
+      "url": "https://github.com/naveenvarma999/MLOps_Learning"
+    },
+    {
+      "name": "Mywork",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-04-13T05:32:29Z",
+      "url": "https://github.com/naveenvarma999/Mywork"
+    },
+    {
+      "name": "naveenvarma999",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-09-15T10:08:00Z",
+      "url": "https://github.com/naveenvarma999/naveenvarma999"
+    },
+    {
+      "name": "Numpy",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-12-04T12:16:22Z",
+      "url": "https://github.com/naveenvarma999/Numpy"
+    },
+    {
+      "name": "Pneumonia-Detection",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-02-14T17:18:41Z",
+      "url": "https://github.com/naveenvarma999/Pneumonia-Detection"
+    },
+    {
+      "name": "Project1",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-01-27T14:00:56Z",
+      "url": "https://github.com/naveenvarma999/Project1"
+    },
+    {
+      "name": "Python_Pract",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-01-07T18:03:57Z",
+      "url": "https://github.com/naveenvarma999/Python_Pract"
+    },
+    {
+      "name": "R_Programming",
+      "language": "R",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-12-07T10:15:47Z",
+      "url": "https://github.com/naveenvarma999/R_Programming"
+    },
+    {
+      "name": "SQL",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-09-08T14:42:04Z",
+      "url": "https://github.com/naveenvarma999/SQL"
+    },
+    {
+      "name": "Stock-Price-Prediction",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-02-06T16:08:08Z",
+      "url": "https://github.com/naveenvarma999/Stock-Price-Prediction"
+    },
+    {
+      "name": "Strings",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-02-26T16:39:30Z",
+      "url": "https://github.com/naveenvarma999/Strings"
+    },
+    {
+      "name": "Tableau-Visualizations",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-03-09T03:05:13Z",
+      "url": "https://github.com/naveenvarma999/Tableau-Visualizations"
+    },
+    {
+      "name": "taskmanager",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-12-22T16:57:46Z",
+      "url": "https://github.com/naveenvarma999/taskmanager"
+    },
+    {
+      "name": "Titanic",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2025-02-04T09:00:53Z",
+      "url": "https://github.com/naveenvarma999/Titanic"
+    }
+  ]
+}
