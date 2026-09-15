@@ -125,13 +125,47 @@ This is the standard I'm working toward across my projects.
 
 ## Toolkit
 
-| Area | Tools |
-| :--- | :--- |
-| **Languages & data** | Python · SQL · Pandas · NumPy |
-| **Machine learning** | scikit-learn · TensorFlow · Keras |
-| **Analysis & visualization** | Matplotlib · time-series analysis · feature engineering |
-| **Applications & serving** | FastAPI · Flask · Streamlit |
-| **Engineering & MLOps** | Git · Docker · GitHub Actions · MLflow |
+### Languages & data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" height="28">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" height="28">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="28">
+</p>
+
+### Machine learning
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" height="28">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" height="28">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="Keras" height="28">
+</p>
+
+### Applications & serving
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" height="28">
+  <img src="https://img.shields.io/badge/Flask-232F3E?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" height="28">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" height="28">
+</p>
+
+### Engineering & MLOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" height="28">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white" alt="MLflow" height="28">
+</p>
+
+### Analysis & visualization
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="36" height="36">
+  <strong>Matplotlib</strong> · Time-series analysis · Feature engineering
+</p>
 
 <details>
 <summary><strong>Engineering practice & learning repositories</strong></summary>
