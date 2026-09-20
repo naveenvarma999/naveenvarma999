@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#how-i-think-about-ml">Approach</a> &nbsp; / &nbsp;
+  <a href="./chapter-3.png">Approach</a> &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
   <a href="#github-observatory">Analytics</a> &nbsp; / &nbsp;
   <a href="#lets-connect">Contact</a>
@@ -81,7 +81,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib logo" width="36" height="36">
-  <strong>Matplotlib</strong> · Time-series analysis · Feature engineering
+  <strong>Matplotlib</strong> · Data visualization · Feature engineering
 </p>
 
 ## GitHub Observatory
@@ -121,4 +121,5 @@ I'm interested in **ML Engineer roles** and conversations about applied ML, mode
 <p align="center">
   <sub>Curiosity drives the experiment. Evidence earns the conclusion.</sub>
 </p>
+
 
