@@ -5,7 +5,6 @@
 <p align="center">
   <a href="./neural-banner.png">View a still version of the banner</a>
 </p>
-
 <h1 align="center">Hi, I'm Naveen Varma.</h1>
 <p align="center">
   <strong>Machine Learning Engineering · Data Science · MLOps</strong><br>
