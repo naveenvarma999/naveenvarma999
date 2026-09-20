@@ -31,13 +31,9 @@
 
 ## About me
 
-I'm focused on **ML Engineer opportunities**, with an interest in reproducible systems and rigorous, honest evaluation.
+[![Naveen Varma — ML engineer and Python developer. MSc Applied Data Science, University of Essex. Python, SQL, FastAPI, Django, Docker, Git and MLflow.](./cinematic-depth.gif)](mailto:naveennallapu750@gmail.com)
 
-My work explores **computer vision, customer engagement prediction and time-series forecasting**. I'm interested in more than fitting a model: understanding the data, choosing a useful baseline, investigating errors and connecting predictions to an application.
-
-- **Modeling:** deep learning, feature engineering and model comparison.
-- **Engineering:** inference interfaces, reproducible workflows and testing.
-- **Growing focus:** experiment tracking, deployment automation and monitoring.
+[Introduction](./chapter-1.png) · [Skills](./chapter-2.png) · [Approach](./chapter-3.png) · [LinkedIn](https://www.linkedin.com/in/naveenvarma000/)
 
 
 ## Toolkit
