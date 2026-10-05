@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T12:31:44.190766+00:00",
+  "fetched_at": "2026-10-05T14:56:32.597973+00:00",
   "repos": [
     {
       "name": "API",
@@ -88,7 +88,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-04T09:16:43Z",
+      "updated_at": "2026-10-04T17:58:57Z",
       "url": "https://github.com/naveenvarma999/fraudguard"
     },
     {
@@ -115,7 +115,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-04T09:45:23Z",
+      "updated_at": "2026-10-05T10:39:16Z",
       "url": "https://github.com/naveenvarma999/github-actions-learning"
     },
     {
@@ -144,6 +144,15 @@
       "fork": false,
       "updated_at": "2026-08-17T17:49:49Z",
       "url": "https://github.com/naveenvarma999/kubernetes-AdvanceLevel"
+    },
+    {
+      "name": "mlflow-learning",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-10-05T14:56:00Z",
+      "url": "https://github.com/naveenvarma999/mlflow-learning"
     },
     {
       "name": "mlops_cou",
@@ -178,7 +187,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-03T11:48:54Z",
+      "updated_at": "2026-10-04T12:31:48Z",
       "url": "https://github.com/naveenvarma999/naveenvarma999"
     },
     {
