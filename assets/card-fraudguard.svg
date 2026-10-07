@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="296" viewBox="0 0 480 296" role="img" aria-label="FraudGuard: FRAUD DETECTION · MLOPS">
+<style>
+.t{font:700 30px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#EAF7F0;letter-spacing:.5px}
+.k{font:600 11px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#7FA393;letter-spacing:1.6px}
+.d{font:400 13.5px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#B9CBC2}
+.m{font:700 26px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#B5F5D2}
+.ml{font:600 10px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#7FA393;letter-spacing:1.2px}
+.chip{fill:#16262C;stroke:#2B4048}
+.ct{font:500 11.5px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#D6E7DE}
+.st{font:700 10.5px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#101B20;letter-spacing:1.2px}
+.scan{animation:scan 5s linear infinite}
+@keyframes scan{from{transform:translateX(-200px)}to{transform:translateX(560px)}}
+.dot{animation:p 1.6s ease-in-out infinite}
+@keyframes p{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.scan,.dot{animation:none}}
+</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#B5F5D2" stop-opacity="0"/><stop offset=".5" stop-color="#B5F5D2" stop-opacity=".9"/><stop offset="1" stop-color="#B5F5D2" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="480" height="296" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="480" height="296" fill="#101B20"/>
+<rect class="scan" y="0" width="200" height="2" fill="url(#g)"/></g>
+<rect x=".5" y=".5" width="479" height="295" rx="18" fill="none" stroke="#24363D"/>
+<text class="k" x="28" y="38">02 · FRAUD DETECTION · MLOPS</text>
+<g transform="translate(360.4,24)"><rect width="92" height="22" rx="11" fill="#B5F5D2"/><circle class="dot" cx="12" cy="11" r="3.5" fill="#101B20"/><text class="st" x="21" y="15">DEPLOYED</text></g>
+<text class="t" x="28" y="80">FraudGuard</text>
+<text class="d" x="28" y="108">Behavioural fraud detection with calibrated models,</text><text class="d" x="28" y="128">shadow scoring, admin-approved promotion and</text><text class="d" x="28" y="148">rollback. 523K transactions, 1,197 accounts.</text><g transform="translate(28,202)"><text class="m" y="0">0.550</text><text class="ml" y="20">AP · UNSEEN ACCTS</text></g><g transform="translate(178,202)"><text class="m" y="0">−70%</text><text class="ml" y="20">BRIER SCORE</text></g><g transform="translate(328,202)"><text class="m" y="0">128</text><text class="ml" y="20">AUTOMATED TESTS</text></g><g transform="translate(28,250)"><rect width="63" height="24" rx="12" class="chip"/><text x="32" y="16" class="ct" text-anchor="middle">Python</text></g><g transform="translate(97.2,250)"><rect width="70" height="24" rx="12" class="chip"/><text x="35" y="16" class="ct" text-anchor="middle">FastAPI</text></g><g transform="translate(173.60000000000002,250)"><rect width="63" height="24" rx="12" class="chip"/><text x="32" y="16" class="ct" text-anchor="middle">Docker</text></g><g transform="translate(242.8,250)"><rect width="70" height="24" rx="12" class="chip"/><text x="35" y="16" class="ct" text-anchor="middle">AWS EC2</text></g>
+</svg>

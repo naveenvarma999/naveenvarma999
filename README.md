@@ -44,6 +44,29 @@
 
 ---
 
+## Daily streak
+
+<p align="center">
+  <a href="https://naveenvarma999.github.io/naveenvarma999/">
+    <img src="https://streak-stats.demolab.com?user=naveenvarma999&theme=dark&hide_border=true&background=101B20&ring=B5F5D2&fire=B5F5D2&currStreakNum=B5F5D2&sideNums=E9F0ED&currStreakLabel=B5F5D2&sideLabels=8DA3A8&dates=8DA3A8&stroke=1F333A&date_format=j%20M%5B%20Y%5D" alt="Current and longest GitHub contribution streak for naveenvarma999" width="49%">
+  </a>
+  <a href="https://naveenvarma999.github.io/naveenvarma999/">
+    <img src="https://github-readme-stats.vercel.app/api?username=naveenvarma999&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101B20&title_color=B5F5D2&icon_color=63C8B5&text_color=E9F0ED&ring_color=B5F5D2&rank_icon=percentile" alt="GitHub stats for naveenvarma999: commits, pull requests, issues and contributions" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenvarma999&bg_color=101B20&color=8DA3A8&line=B5F5D2&point=E9F0ED&area=true&area_color=63C8B5&hide_border=true&custom_title=Daily%20contributions%20%C2%B7%20last%2031%20days" alt="Line graph of daily GitHub contributions over the last 31 days" width="100%">
+</p>
+
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/naveenvarma999/naveenvarma999/output/snake-dark.svg" alt="Animation of a snake eating the cells of the GitHub contribution calendar" width="100%">
+  </picture>
+</p>
+
+<p align="center"><a href="https://naveenvarma999.github.io/naveenvarma999/"><b>Open the live GitHub Observatory →</b></a><br><sub>Streak ring · achievements · streak timeline · 3D calendar · live commit feed</sub></p>
+
 ## About me
 
 [![Naveen Varma — ML engineer and Python developer. MSc Applied Data Science, University of Essex. Python, SQL, FastAPI, Django, Docker, Git and MLflow.](./cinematic-depth.gif)](mailto:naveennallapu750@gmail.com)
@@ -202,7 +225,7 @@ At AI Variant I worked across the full model lifecycle: data pipelines and featu
 
 <p align="center">
   <a href="https://naveenvarma999.github.io/naveenvarma999/"><strong>Explore the interactive dashboard →</strong></a><br>
-  <sub>Date filters · 3D rotation · Daily detail · CSV export</sub>
+  <sub>Streaks · achievements · streak timeline · repo explorer · live commit feed · 3D calendar · CSV export</sub>
 </p>
 
 <!-- The interactive link becomes available after enabling GitHub Pages and running the included workflow. See START-HERE.md. -->

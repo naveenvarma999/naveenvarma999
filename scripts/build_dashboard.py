@@ -65,7 +65,26 @@ panel(30,749,1060,83);text(50,765,'EXPLORE THE INTERACTIVE DASHBOARD',12,mint,Tr
 text(30,850,'Activity indicators, not code quality or proficiency. Language mix counts repositories, not bytes.',11)
 text(30,870,'Source: github.com/naveenvarma999 · Updated by the included GitHub workflow after installation.',9)
 im.save(OUT/'dashboard-overview.png')
-bundle={'activity':activity,'repositories':repository_data}
+events=[]
+if '--cached' not in sys.argv:
+    try:
+        headers={'User-Agent':'NaveenProfileAnalytics','Accept':'application/vnd.github+json'}
+        token=os.environ.get('GITHUB_TOKEN')
+        if token:headers['Authorization']='Bearer '+token
+        with urlopen(Request('https://api.github.com/users/naveenvarma999/events/public?per_page=60',headers=headers),timeout=60) as r:raw=json.load(r)
+        keep=('PushEvent','CreateEvent','PullRequestEvent','WatchEvent','ForkEvent','IssuesEvent')
+        for e in raw:
+            if e.get('type') not in keep:continue
+            p=e.get('payload') or {}
+            slim={'type':e['type'],'repo':{'name':e['repo']['name']},'created_at':e['created_at'],'payload':{}}
+            if e['type']=='PushEvent':slim['payload']={'size':p.get('size'),'commits':[{'message':c.get('message','')[:140]} for c in (p.get('commits') or [])[-3:]]}
+            elif e['type']=='CreateEvent':slim['payload']={'ref_type':p.get('ref_type'),'ref':p.get('ref')}
+            elif e['type']=='PullRequestEvent':slim['payload']={'action':p.get('action'),'pull_request':{'title':(p.get('pull_request') or {}).get('title',''),'merged':(p.get('pull_request') or {}).get('merged',False)}}
+            elif e['type']=='IssuesEvent':slim['payload']={'action':p.get('action')}
+            events.append(slim)
+    except Exception as exc:
+        print('Events feed skipped:',exc)
+bundle={'activity':activity,'repositories':repository_data,'events':events}
 payload=json.dumps(bundle).replace('<','\\u003c')
 template=(ROOT/'dashboard/template.html').read_text(encoding='utf-8')
 assert template.count('__DATA_JSON__')==1
