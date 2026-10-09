@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T13:41:47.303199+00:00",
+  "fetched_at": "2026-10-09T13:26:52.715506+00:00",
   "repos": [
     {
       "name": "API",
@@ -65,6 +65,15 @@
       "url": "https://github.com/naveenvarma999/DSA_Practice"
     },
     {
+      "name": "DVC-Learning",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-10-09T13:10:06Z",
+      "url": "https://github.com/naveenvarma999/DVC-Learning"
+    },
+    {
       "name": "Email_Marketing_Campaign",
       "language": "Jupyter Notebook",
       "stars": 0,
@@ -115,7 +124,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-07T14:42:56Z",
+      "updated_at": "2026-10-09T11:54:13Z",
       "url": "https://github.com/naveenvarma999/github-actions-learning"
     },
     {
@@ -187,7 +196,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-07T17:08:27Z",
+      "updated_at": "2026-10-08T13:41:53Z",
       "url": "https://github.com/naveenvarma999/naveenvarma999"
     },
     {
