@@ -98,13 +98,9 @@ class Naveen:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/card-pneumonia.svg" alt="Pneumonia AI: MSc dissertation. ResNet50 with test-time augmentation, ROC-AUC 0.962, sensitivity 0.954, accuracy 0.888." width="100%">
+    <td colspan="2" align="center" valign="top">
+      <img src="./assets/card-pneumonia.svg" alt="Pneumonia AI: MSc dissertation. ResNet50 with test-time augmentation, ROC-AUC 0.962, sensitivity 0.954, accuracy 0.888." width="50%">
       <p align="center"><sub>MSc dissertation · University of Essex</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/card-infergate.svg" alt="InferGate: LLM inference gateway with semantic cache, rate limiting, streaming and an eval gate in CI. In progress." width="100%">
-      <p align="center"><sub>In progress</sub></p>
     </td>
   </tr>
 </table>
@@ -245,7 +241,6 @@ At AI Variant I worked across the full model lifecycle: data pipelines and featu
 
 ## Currently
 
-- 🔨 **Building** InferGate, an LLM inference gateway with semantic caching and an eval gate in CI
 - 🎓 **Finishing** my MSc dissertation on paediatric pneumonia detection
 - 🎯 **Looking for** ML Engineer and MLOps / Platform Engineer roles in the UK
 
