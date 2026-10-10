@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-label="Career flow: Data Scientist Intern at AI Variant (2024), certifications in SQL, Machine Learning and Deep Learning, MSc Applied Data Science at the University of Essex (2025 to present), next: ML Engineer.">
+<title>Journey: AI Variant intern → certifications → MSc Essex → ML Engineer</title>
+<defs>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B3A3C"/><stop offset="1" stop-color="#12272A"/></linearGradient>
+<linearGradient id="cardg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14252B"/><stop offset="1" stop-color="#0F1C21"/></linearGradient>
+<linearGradient id="fadeg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101B20"/><stop offset="1" stop-color="#101B20" stop-opacity="0"/></linearGradient>
+<linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2E7E6E"/><stop offset=".6" stop-color="#63C8B5"/><stop offset="1" stop-color="#B5F5D2"/></linearGradient>
+<clipPath id="clip"><rect x="1" y="1" width="1118" height="518" rx="16"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(26px)}}
+.bob{animation:bob 5s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-6px)}}
+.ring{animation:ring 2.4s ease-in-out infinite}
+@keyframes ring{50%{stroke-opacity:.15}}
+.dash{stroke-dasharray:6 10;animation:dash 1.2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-16}}
+@media (prefers-reduced-motion:reduce){.rise,.bob,.ring,.dash{animation:none}}
+</style>
+<rect x=".5" y=".5" width="1119" height="519" rx="16" fill="#101B20" stroke="#1F333A"/>
+<g clip-path="url(#clip)">
+<g stroke="#1F333A" stroke-opacity=".55" stroke-width="1"><line x1="-720" y1="520" x2="-200" y2="220" /><line x1="-720" y1="520" x2="-1240" y2="220" /><line x1="-660" y1="520" x2="-140" y2="220" /><line x1="-660" y1="520" x2="-1180" y2="220" /><line x1="-600" y1="520" x2="-80" y2="220" /><line x1="-600" y1="520" x2="-1120" y2="220" /><line x1="-540" y1="520" x2="-20" y2="220" /><line x1="-540" y1="520" x2="-1060" y2="220" /><line x1="-480" y1="520" x2="40" y2="220" /><line x1="-480" y1="520" x2="-1000" y2="220" /><line x1="-420" y1="520" x2="100" y2="220" /><line x1="-420" y1="520" x2="-940" y2="220" /><line x1="-360" y1="520" x2="160" y2="220" /><line x1="-360" y1="520" x2="-880" y2="220" /><line x1="-300" y1="520" x2="220" y2="220" /><line x1="-300" y1="520" x2="-820" y2="220" /><line x1="-240" y1="520" x2="280" y2="220" /><line x1="-240" y1="520" x2="-760" y2="220" /><line x1="-180" y1="520" x2="340" y2="220" /><line x1="-180" y1="520" x2="-700" y2="220" /><line x1="-120" y1="520" x2="400" y2="220" /><line x1="-120" y1="520" x2="-640" y2="220" /><line x1="-60" y1="520" x2="460" y2="220" /><line x1="-60" y1="520" x2="-580" y2="220" /><line x1="0" y1="520" x2="520" y2="220" /><line x1="0" y1="520" x2="-520" y2="220" /><line x1="60" y1="520" x2="580" y2="220" /><line x1="60" y1="520" x2="-460" y2="220" /><line x1="120" y1="520" x2="640" y2="220" /><line x1="120" y1="520" x2="-400" y2="220" /><line x1="180" y1="520" x2="700" y2="220" /><line x1="180" y1="520" x2="-340" y2="220" /><line x1="240" y1="520" x2="760" y2="220" /><line x1="240" y1="520" x2="-280" y2="220" /><line x1="300" y1="520" x2="820" y2="220" /><line x1="300" y1="520" x2="-220" y2="220" /><line x1="360" y1="520" x2="880" y2="220" /><line x1="360" y1="520" x2="-160" y2="220" /><line x1="420" y1="520" x2="940" y2="220" /><line x1="420" y1="520" x2="-100" y2="220" /><line x1="480" y1="520" x2="1000" y2="220" /><line x1="480" y1="520" x2="-40" y2="220" /><line x1="540" y1="520" x2="1060" y2="220" /><line x1="540" y1="520" x2="20" y2="220" /><line x1="600" y1="520" x2="1120" y2="220" /><line x1="600" y1="520" x2="80" y2="220" /><line x1="660" y1="520" x2="1180" y2="220" /><line x1="660" y1="520" x2="140" y2="220" /><line x1="720" y1="520" x2="1240" y2="220" /><line x1="720" y1="520" x2="200" y2="220" /><line x1="780" y1="520" x2="1300" y2="220" /><line x1="780" y1="520" x2="260" y2="220" /><line x1="840" y1="520" x2="1360" y2="220" /><line x1="840" y1="520" x2="320" y2="220" /><line x1="900" y1="520" x2="1420" y2="220" /><line x1="900" y1="520" x2="380" y2="220" /><line x1="960" y1="520" x2="1480" y2="220" /><line x1="960" y1="520" x2="440" y2="220" /><line x1="1020" y1="520" x2="1540" y2="220" /><line x1="1020" y1="520" x2="500" y2="220" /><line x1="1080" y1="520" x2="1600" y2="220" /><line x1="1080" y1="520" x2="560" y2="220" /><line x1="1140" y1="520" x2="1660" y2="220" /><line x1="1140" y1="520" x2="620" y2="220" /><line x1="1200" y1="520" x2="1720" y2="220" /><line x1="1200" y1="520" x2="680" y2="220" /><line x1="1260" y1="520" x2="1780" y2="220" /><line x1="1260" y1="520" x2="740" y2="220" /><line x1="1320" y1="520" x2="1840" y2="220" /><line x1="1320" y1="520" x2="800" y2="220" /><line x1="1380" y1="520" x2="1900" y2="220" /><line x1="1380" y1="520" x2="860" y2="220" /><line x1="1440" y1="520" x2="1960" y2="220" /><line x1="1440" y1="520" x2="920" y2="220" /><line x1="1500" y1="520" x2="2020" y2="220" /><line x1="1500" y1="520" x2="980" y2="220" /><line x1="1560" y1="520" x2="2080" y2="220" /><line x1="1560" y1="520" x2="1040" y2="220" /><line x1="1620" y1="520" x2="2140" y2="220" /><line x1="1620" y1="520" x2="1100" y2="220" /><line x1="1680" y1="520" x2="2200" y2="220" /><line x1="1680" y1="520" x2="1160" y2="220" /><line x1="1740" y1="520" x2="2260" y2="220" /><line x1="1740" y1="520" x2="1220" y2="220" /></g>
+<rect x="0" y="0" width="1120" height="300" fill="url(#fadeg)"/>
+</g>
+<text x="28" y="40" font-size="15" font-weight="600" fill="#E9F0ED">The path so far</text>
+<text x="28" y="60" font-size="11.5" fill="#8DA3A8">Each step builds on the last — from shipping models in industry to engineering them end to end.</text>
+<path d="M150,462 C284.0,510 284.0,480 418,432 C552.0,480 552.0,450 686,402 C820.0,450 820.0,420 954,372" fill="none" stroke="#2E7E6E" stroke-width="10" stroke-opacity=".35" stroke-linecap="round"/>
+<path d="M150,462 C284.0,510 284.0,480 418,432 C552.0,480 552.0,450 686,402 C820.0,450 820.0,420 954,372" fill="none" stroke="url(#flow)" stroke-width="2.4" class="dash" stroke-linecap="round"/>
+<g class="rise" style="animation-delay:0.15s">
+<polygon points="72,462 150,492 150,510 72,480" fill="#0B1A1C" stroke="#1F333A"/>
+<polygon points="228,462 150,492 150,510 228,480" fill="#0F2427" stroke="#1F333A"/>
+<polygon points="150,432 228,462 150,492 72,462" fill="url(#top)" stroke="#63C8B5" stroke-opacity=".55"/>
+<polygon points="150,441 206,462 150,483 94,462" fill="none" stroke="#63C8B5" stroke-width="1.4" class="ring" style="animation-delay:0.0s"/>
+<circle cx="150" cy="462" r="5" fill="#63C8B5"/>
+
+</g><g class="rise" style="animation-delay:0.37s">
+<polygon points="340,432 418,462 418,480 340,450" fill="#0B1A1C" stroke="#1F333A"/>
+<polygon points="496,432 418,462 418,480 496,450" fill="#0F2427" stroke="#1F333A"/>
+<polygon points="418,402 496,432 418,462 340,432" fill="url(#top)" stroke="#F4C77A" stroke-opacity=".55"/>
+<polygon points="418,411 474,432 418,453 362,432" fill="none" stroke="#F4C77A" stroke-width="1.4" class="ring" style="animation-delay:0.5s"/>
+<circle cx="418" cy="432" r="5" fill="#F4C77A"/>
+
+</g><g class="rise" style="animation-delay:0.59s">
+<polygon points="608,402 686,432 686,450 608,420" fill="#0B1A1C" stroke="#1F333A"/>
+<polygon points="764,402 686,432 686,450 764,420" fill="#0F2427" stroke="#1F333A"/>
+<polygon points="686,372 764,402 686,432 608,402" fill="url(#top)" stroke="#63C8B5" stroke-opacity=".55"/>
+<polygon points="686,381 742,402 686,423 630,402" fill="none" stroke="#63C8B5" stroke-width="1.4" class="ring" style="animation-delay:1.0s"/>
+<circle cx="686" cy="402" r="5" fill="#63C8B5"/>
+
+</g><g class="rise" style="animation-delay:0.81s">
+<polygon points="876,372 954,402 954,420 876,390" fill="#0B1A1C" stroke="#1F333A"/>
+<polygon points="1032,372 954,402 954,420 1032,390" fill="#0F2427" stroke="#1F333A"/>
+<polygon points="954,342 1032,372 954,402 876,372" fill="url(#top)" stroke="#B5F5D2" stroke-opacity=".55"/>
+<polygon points="954,351 1010,372 954,393 898,372" fill="none" stroke="#B5F5D2" stroke-width="1.4" class="ring" style="animation-delay:1.5s"/>
+<circle cx="954" cy="372" r="5" fill="#B5F5D2"/>
+<circle cx="954" cy="372" r="5" fill="none" stroke="#B5F5D2" stroke-width="2"><animate attributeName="r" values="5;26" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<circle r="5" fill="#B5F5D2"><animateMotion dur="5s" repeatCount="indefinite" path="M150,462 C284.0,510 284.0,480 418,432 C552.0,480 552.0,450 686,402 C820.0,450 820.0,420 954,372" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.9;1" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="11" fill="#B5F5D2" opacity=".18"><animateMotion dur="5s" repeatCount="indefinite" path="M150,462 C284.0,510 284.0,480 418,432 C552.0,480 552.0,450 686,402 C820.0,450 820.0,420 954,372"/></circle>
+<g class="rise" style="animation-delay:0.35s"><line x1="150" y1="402" x2="150" y2="462" stroke="#63C8B5" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<g class="bob" style="animation-delay:0.0s">
+<rect x="32.0" y="242" width="252" height="168" rx="14" fill="#08100F" stroke="#1F333A"/>
+<rect x="24.0" y="234" width="252" height="168" rx="14" fill="url(#cardg)" stroke="#63C8B5" stroke-opacity=".45"/>
+<rect x="24.0" y="234" width="4" height="168" rx="2" fill="#63C8B5"/>
+<text x="44.0" y="260" class="mono" font-size="10.5" letter-spacing="1.4" fill="#63C8B5">JUN – DEC 2024</text>
+<text x="260.0" y="261" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#5E767C">01</text>
+<text x="44.0" y="288" font-size="16.5" font-weight="700" fill="#E9F0ED">Data Scientist Intern</text>
+<text x="44.0" y="308" font-size="11.5" fill="#8DA3A8">AI Variant · Hyderabad, India</text>
+<line x1="44.0" x2="256.0" y1="320" y2="320" stroke="#1F333A"/>
+<text x="44.0" y="338" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> Pipelines + features in Python/SQL</text><text x="44.0" y="358" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> Experiments tracked in MLflow</text><text x="44.0" y="378" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> Dockerised FastAPI service</text></g></g><g class="rise" style="animation-delay:0.57s"><line x1="418" y1="372" x2="418" y2="432" stroke="#F4C77A" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<g class="bob" style="animation-delay:0.7s">
+<rect x="300.0" y="212" width="252" height="168" rx="14" fill="#08100F" stroke="#1F333A"/>
+<rect x="292.0" y="204" width="252" height="168" rx="14" fill="url(#cardg)" stroke="#F4C77A" stroke-opacity=".45"/>
+<rect x="292.0" y="204" width="4" height="168" rx="2" fill="#F4C77A"/>
+<text x="312.0" y="230" class="mono" font-size="10.5" letter-spacing="1.4" fill="#F4C77A">2024 – 2025</text>
+<text x="528.0" y="231" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#5E767C">02</text>
+<text x="312.0" y="258" font-size="16.5" font-weight="700" fill="#E9F0ED">Certifications</text>
+<text x="312.0" y="278" font-size="11.5" fill="#8DA3A8">Verified credentials</text>
+<line x1="312.0" x2="524.0" y1="290" y2="290" stroke="#1F333A"/>
+<text x="312.0" y="308" font-size="12" fill="#8DA3A8"><tspan fill="#F4C77A">▸</tspan> SQL (Advanced) · HackerRank</text><text x="312.0" y="328" font-size="12" fill="#8DA3A8"><tspan fill="#F4C77A">▸</tspan> Machine Learning A-Z · Udemy</text><text x="312.0" y="348" font-size="12" fill="#8DA3A8"><tspan fill="#F4C77A">▸</tspan> Deep Learning A-Z · Udemy</text></g></g><g class="rise" style="animation-delay:0.79s"><line x1="686" y1="342" x2="686" y2="402" stroke="#63C8B5" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<g class="bob" style="animation-delay:1.4s">
+<rect x="568.0" y="182" width="252" height="168" rx="14" fill="#08100F" stroke="#1F333A"/>
+<rect x="560.0" y="174" width="252" height="168" rx="14" fill="url(#cardg)" stroke="#63C8B5" stroke-opacity=".45"/>
+<rect x="560.0" y="174" width="4" height="168" rx="2" fill="#63C8B5"/>
+<text x="580.0" y="200" class="mono" font-size="10.5" letter-spacing="1.4" fill="#63C8B5">SEP 2025 – PRESENT</text>
+<text x="796.0" y="201" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#5E767C">03</text>
+<text x="580.0" y="228" font-size="16.5" font-weight="700" fill="#E9F0ED">MSc Applied Data Science</text>
+<text x="580.0" y="248" font-size="11.5" fill="#8DA3A8">University of Essex · Colchester, UK</text>
+<line x1="580.0" x2="792.0" y1="260" y2="260" stroke="#1F333A"/>
+<text x="580.0" y="278" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> Dissertation: Pneumonia AI</text><text x="580.0" y="298" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> Threadline + FraudGuard shipped</text><text x="580.0" y="318" font-size="12" fill="#8DA3A8"><tspan fill="#63C8B5">▸</tspan> MLOps: CI/CD, MLflow, AWS</text></g></g><g class="rise" style="animation-delay:1.01s"><line x1="954" y1="312" x2="954" y2="372" stroke="#B5F5D2" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<g class="bob" style="animation-delay:2.1s">
+<rect x="836.0" y="152" width="252" height="168" rx="14" fill="#08100F" stroke="#1F333A"/>
+<rect x="828.0" y="144" width="252" height="168" rx="14" fill="url(#cardg)" stroke="#B5F5D2" stroke-opacity=".45"/>
+<rect x="828.0" y="144" width="4" height="168" rx="2" fill="#B5F5D2"/>
+<text x="848.0" y="170" class="mono" font-size="10.5" letter-spacing="1.4" fill="#B5F5D2">NOW</text>
+<text x="1064.0" y="171" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#5E767C">04</text>
+<text x="848.0" y="198" font-size="16.5" font-weight="700" fill="#E9F0ED">ML Engineer</text>
+<text x="848.0" y="218" font-size="11.5" fill="#8DA3A8">Open to ML Engineer + MLOps roles</text>
+<line x1="848.0" x2="1060.0" y1="230" y2="230" stroke="#1F333A"/>
+<text x="848.0" y="248" font-size="12" fill="#8DA3A8"><tspan fill="#B5F5D2">▸</tspan> Models to production</text><text x="848.0" y="268" font-size="12" fill="#8DA3A8"><tspan fill="#B5F5D2">▸</tspan> Honest evaluation</text><text x="848.0" y="288" font-size="12" fill="#8DA3A8"><tspan fill="#B5F5D2">▸</tspan> Monitored deployment</text></g></g>
+</svg>

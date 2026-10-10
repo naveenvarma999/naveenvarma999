@@ -109,20 +109,9 @@ I build ML systems end to end: leakage-free validation, honest metrics, then tes
 
 ## Background
 
-| | Where | When |
-|---|---|---|
-| **Data Scientist Intern** | AI Variant · Hyderabad, India | Jun – Dec 2024 |
-| **MSc Applied Data Science** | University of Essex · Colchester, UK | Sep 2025 – present |
+<img src="./assets/journey-flow.svg" alt="Career flow: Data Scientist Intern at AI Variant, Hyderabad (Jun to Dec 2024), certifications in SQL (Advanced), Machine Learning A-Z and Deep Learning A-Z, MSc Applied Data Science at the University of Essex (Sep 2025 to present), next: ML Engineer." width="100%">
 
-At AI Variant I worked across the full model lifecycle: data pipelines and feature engineering in Python and SQL, model training with experiments tracked in MLflow, and a Dockerised FastAPI prediction service.
-
-**Certifications**
-
-| Certificate | Issuer | Year | |
-|---|---|---|---|
-| **SQL (Advanced)** | HackerRank | 2025 | [Verify ↗](https://www.hackerrank.com/certificates/e40a41d63714) |
-| **Machine Learning A-Z** | Udemy | 2025 | [Verify ↗](https://ude.my/UC-229fbddb-ee70-42c9-87e0-dee06780397b) |
-| **Deep Learning A-Z** | Udemy | 2024 | [Verify ↗](https://ude.my/UC-3bbf72ed-39f4-49fc-9897-5d8291ac87c6) |
+<p align="center"><sub>Verify certificates: <a href="https://www.hackerrank.com/certificates/e40a41d63714">SQL (Advanced) ↗</a> &nbsp;·&nbsp; <a href="https://ude.my/UC-229fbddb-ee70-42c9-87e0-dee06780397b">Machine Learning A-Z ↗</a> &nbsp;·&nbsp; <a href="https://ude.my/UC-3bbf72ed-39f4-49fc-9897-5d8291ac87c6">Deep Learning A-Z ↗</a></sub></p>
 
 ## Toolkit
 
