@@ -9,6 +9,7 @@ on:
     paths:
       - 'scripts/**'
       - 'dashboard/template.html'
+      - 'README.md'
       - '.github/workflows/profile-analytics.yml'
 
 permissions:
@@ -36,11 +37,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/build_dashboard.py
+      - name: Build README SVG panels
+        run: python scripts/build_profile_svgs.py
       - name: Save refreshed analytics
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add analytics/activity.json analytics/repositories.json analytics/contributions-3d.gif analytics/contributions-3d.png analytics/activity-summary.png analytics/dashboard-overview.png dashboard/index.html
+          git add analytics/activity.json analytics/repositories.json analytics/contributions-3d.gif analytics/contributions-3d.png analytics/activity-summary.png analytics/dashboard-overview.png analytics/profile-pulse.svg analytics/profile-calendar.svg analytics/profile-recent.svg dashboard/index.html
           if git diff --cached --quiet; then
             echo 'No changes'
           else

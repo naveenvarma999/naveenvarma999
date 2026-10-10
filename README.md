@@ -2,10 +2,6 @@
   <img src="./neural-banner.gif" alt="Naveen Varma — Turning complexity into intelligence. A rotating 3D neural field and an animated Data → Model → Evaluate → Deploy pipeline." width="1120">
 </p>
 
-<p align="center">
-  <a href="./neural-banner.png">View a still version of the banner</a>
-</p>
-
 <h1 align="center">Hi, I'm Naveen Varma.</h1>
 
 <p align="center">
@@ -15,9 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Machine Learning Engineering · Data Science · MLOps</strong><br>
-  MSc Applied Data Science · University of Essex<br>
-  Exploring the complete journey from raw data to useful ML systems.
+  MSc Applied Data Science · University of Essex · Colchester, UK · <b>Open to ML Engineer roles</b>
 </p>
 
 <p align="center">
@@ -28,61 +22,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_work-B5F5D2?style=flat-square&amp;labelColor=101B20" alt="Status: open to work">
-  <img src="https://img.shields.io/badge/Based_in-Colchester,_UK-B5F5D2?style=flat-square&amp;labelColor=101B20" alt="Based in Colchester, UK">
-  <img src="https://img.shields.io/badge/Focus-ML_Engineering_%C2%B7_MLOps-B5F5D2?style=flat-square&amp;labelColor=101B20" alt="Focus: ML Engineering and MLOps">
-</p>
-
-<p align="center">
-  <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#featured-work">Work</a> &nbsp; / &nbsp;
-  <a href="#experience">Experience</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#github-observatory">Analytics</a> &nbsp; / &nbsp;
-  <a href="#lets-connect">Contact</a>
+  <a href="#github-pulse">Pulse</a> &nbsp;/&nbsp;
+  <a href="#featured-work">Work</a> &nbsp;/&nbsp;
+  <a href="#background">Background</a> &nbsp;/&nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp;/&nbsp;
+  <a href="https://naveenvarma999.github.io/naveenvarma999/">Live dashboard ↗</a>
 </p>
 
 ---
 
-## Daily streak
+## GitHub pulse
 
-<p align="center">
-  <a href="https://naveenvarma999.github.io/naveenvarma999/">
-    <img src="https://streak-stats.demolab.com?user=naveenvarma999&theme=dark&hide_border=true&background=101B20&ring=B5F5D2&fire=B5F5D2&currStreakNum=B5F5D2&sideNums=E9F0ED&currStreakLabel=B5F5D2&sideLabels=8DA3A8&dates=8DA3A8&stroke=1F333A&date_format=j%20M%5B%20Y%5D" alt="Current and longest GitHub contribution streak for naveenvarma999" width="49%">
-  </a>
-  <a href="https://naveenvarma999.github.io/naveenvarma999/">
-    <img src="https://github-readme-stats.vercel.app/api?username=naveenvarma999&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=101B20&title_color=B5F5D2&icon_color=63C8B5&text_color=E9F0ED&ring_color=B5F5D2&rank_icon=percentile" alt="GitHub stats for naveenvarma999: commits, pull requests, issues and contributions" width="49%">
-  </a>
-</p>
+<a href="https://naveenvarma999.github.io/naveenvarma999/"><img src="./analytics/profile-pulse.svg" alt="Current contribution streak, longest streak, total contributions, active days and the last 7 days. Updated daily." width="100%"></a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenvarma999&bg_color=101B20&color=8DA3A8&line=B5F5D2&point=E9F0ED&area=true&area_color=63C8B5&hide_border=true&custom_title=Daily%20contributions%20%C2%B7%20last%2031%20days" alt="Line graph of daily GitHub contributions over the last 31 days" width="100%">
-</p>
+<a href="https://naveenvarma999.github.io/naveenvarma999/"><img src="./analytics/profile-calendar.svg" alt="Full-year contribution calendar with the longest streak outlined in gold and today marked." width="100%"></a>
 
-<p align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/naveenvarma999/naveenvarma999/output/snake-dark.svg" alt="Animation of a snake eating the cells of the GitHub contribution calendar" width="100%">
-  </picture>
-</p>
-
-<p align="center"><a href="https://naveenvarma999.github.io/naveenvarma999/"><b>Open the live GitHub Observatory →</b></a><br><sub>Streak ring · achievements · streak timeline · 3D calendar · live commit feed</sub></p>
-
-## About me
-
-[![Naveen Varma — ML engineer and Python developer. MSc Applied Data Science, University of Essex. Python, SQL, FastAPI, Django, Docker, Git and MLflow.](./cinematic-depth.gif)](mailto:naveennallapu750@gmail.com)
-
-[Introduction](./chapter-1.png) · [Skills](./chapter-2.png) · [Approach](./chapter-3.png) · [LinkedIn](https://www.linkedin.com/in/naveenvarma000/)
-
-```python
-class Naveen:
-    role      = "ML Engineer · MLOps"
-    education = "MSc Applied Data Science, University of Essex"
-    focus     = ["recommender systems", "fraud detection", "computer vision", "LLM serving"]
-    ships_with = ["PyTorch", "scikit-learn", "MLflow", "FastAPI", "Docker", "AWS"]
-
-    def approach(self):
-        return "leakage-free validation → honest metrics → tested, monitored deployment"
-```
+<p align="center"><a href="https://naveenvarma999.github.io/naveenvarma999/"><b>Open the interactive GitHub Observatory →</b></a> &nbsp;·&nbsp; <sub>achievements · streak timeline · repo explorer · live commit feed · 3D view</sub></p>
 
 ## Featured work
 
@@ -144,14 +99,30 @@ flowchart LR
 
 </details>
 
-## Experience
+<img src="./analytics/profile-recent.svg" alt="Most recently updated repositories and language mix across public repositories. Updated daily." width="100%">
 
-| Role | Where | When |
+## About me
+
+[![Naveen Varma — ML engineer and Python developer. MSc Applied Data Science, University of Essex.](./cinematic-depth.gif)](https://www.linkedin.com/in/naveenvarma000/)
+
+I build ML systems end to end: leakage-free validation, honest metrics, then tested and monitored deployment. More in [Introduction](./chapter-1.png) · [Skills](./chapter-2.png) · [Approach](./chapter-3.png).
+
+## Background
+
+| | Where | When |
 |---|---|---|
 | **Data Scientist Intern** | AI Variant · Hyderabad, India | Jun – Dec 2024 |
 | **MSc Applied Data Science** | University of Essex · Colchester, UK | Sep 2025 – present |
 
-At AI Variant I worked across the full model lifecycle: data pipelines and feature engineering in Python and SQL, model training and tuning with experiments tracked in MLflow, and a Dockerised FastAPI service for predictions.
+At AI Variant I worked across the full model lifecycle: data pipelines and feature engineering in Python and SQL, model training with experiments tracked in MLflow, and a Dockerised FastAPI prediction service.
+
+**Certifications**
+
+| Certificate | Issuer | Year | |
+|---|---|---|---|
+| **SQL (Advanced)** | HackerRank | 2025 | [Verify ↗](https://www.hackerrank.com/certificates/e40a41d63714) |
+| **Machine Learning A-Z** | Udemy | 2025 | [Verify ↗](https://ude.my/UC-229fbddb-ee70-42c9-87e0-dee06780397b) |
+| **Deep Learning A-Z** | Udemy | 2024 | [Verify ↗](https://ude.my/UC-3bbf72ed-39f4-49fc-9897-5d8291ac87c6) |
 
 ## Toolkit
 
@@ -203,53 +174,9 @@ At AI Variant I worked across the full model lifecycle: data pipelines and featu
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" height="28">
 </p>
 
-### Certifications
-
-| Certificate | Issuer | Year | |
-|---|---|---|---|
-| **SQL (Advanced)** | HackerRank | 2025 | [Verify ↗](https://www.hackerrank.com/certificates/e40a41d63714) |
-| **Machine Learning A-Z** | Udemy | 2025 | [Verify ↗](https://ude.my/UC-229fbddb-ee70-42c9-87e0-dee06780397b) |
-| **Deep Learning A-Z** | Udemy | 2024 | [Verify ↗](https://ude.my/UC-3bbf72ed-39f4-49fc-9897-5d8291ac87c6) |
-
-## GitHub Observatory
+---
 
 <p align="center">
-  <a href="https://naveenvarma999.github.io/naveenvarma999/">
-    <img src="./analytics/dashboard-overview.png" alt="GitHub analytics dashboard: contribution totals, active days, longest streak, repository count, activity trends, language mix, calendar heatmap and weekday totals." width="1120">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://naveenvarma999.github.io/naveenvarma999/"><strong>Explore the interactive dashboard →</strong></a><br>
-  <sub>Streaks · achievements · streak timeline · repo explorer · live commit feed · 3D calendar · CSV export</sub>
-</p>
-
-<!-- The interactive link becomes available after enabling GitHub Pages and running the included workflow. See START-HERE.md. -->
-
-### Contributions in motion
-
-<p align="center">
-  <img src="./analytics/contributions-3d.gif" alt="Animated 3D contribution calendar with heights representing real daily activity and a decorative moving highlight." width="1120">
-</p>
-
-<p align="center">
-  <a href="./analytics/contributions-3d.png">Still version</a> ·
-  <a href="./analytics/activity.json">Contribution data</a>
-</p>
-
-<sub>Public GitHub activity; snapshot dates are shown on the charts. The included workflow refreshes the figures daily after installation. Repository and language totals describe the account snapshot. Contributions are activity indicators, not a measure of skill or code quality.</sub>
-
-## Currently
-
-- 🎓 **Finishing** my MSc dissertation on paediatric pneumonia detection
-- 🎯 **Looking for** ML Engineer and MLOps / Platform Engineer roles in the UK
-
-## Let's connect
-
-I'm interested in **ML Engineer roles** and conversations about applied ML, model evaluation and reliable delivery.
-
-**[LinkedIn](https://www.linkedin.com/in/naveenvarma000/) · [Email](mailto:naveennallapu750@gmail.com) · [LeetCode](https://leetcode.com/u/naveenvarma999/)**
-
-<p align="center">
-  <sub>Curiosity drives the experiment. Evidence earns the conclusion.</sub>
+  <b>Now:</b> finishing my MSc dissertation and looking for ML Engineer and MLOps roles in the UK.<br>
+  <sub>Curiosity drives the experiment. Evidence earns the conclusion. · Panels on this page are generated daily from my public GitHub activity.</sub>
 </p>
