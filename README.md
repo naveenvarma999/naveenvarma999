@@ -53,8 +53,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="./assets/card-pneumonia.svg" alt="Pneumonia AI: MSc dissertation. ResNet50 with test-time augmentation, ROC-AUC 0.962, sensitivity 0.954, accuracy 0.888." width="50%">
+    <td width="50%" valign="top">
+      <a href="https://github.com/naveenvarma999/nexus-rag"><img src="./assets/card-nexus.svg" alt="Nexus RAG: document Q&amp;A with cited answers. Background embedding workers, pgvector top-5 retrieval, per-user PostgreSQL row-level security, 29 automated tests." width="100%"></a>
+      <p align="center"><a href="https://nexus-rag-naveen.floot.app"><b>Live demo</b></a> · <a href="https://github.com/naveenvarma999/nexus-rag">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/card-pneumonia.svg" alt="Pneumonia AI: MSc dissertation. ResNet50 with test-time augmentation, ROC-AUC 0.962, sensitivity 0.954, accuracy 0.888." width="100%">
       <p align="center"><sub>MSc dissertation · University of Essex</sub></p>
     </td>
   </tr>
@@ -102,8 +106,6 @@ flowchart LR
 <img src="./analytics/profile-recent.svg" alt="Most recently updated repositories and language mix across public repositories. Updated daily." width="100%">
 
 ## About me
-
-[![Naveen Varma — ML engineer and Python developer. MSc Applied Data Science, University of Essex.](./cinematic-depth.gif)](https://www.linkedin.com/in/naveenvarma000/)
 
 I build ML systems end to end: leakage-free validation, honest metrics, then tested and monitored deployment. More in [Introduction](./chapter-1.png) · [Skills](./chapter-2.png) · [Approach](./chapter-3.png).
 
