@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T15:27:55.942949+00:00",
+  "fetched_at": "2026-10-11T11:52:07.011931+00:00",
   "repos": [
     {
       "name": "API",
@@ -196,8 +196,26 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-10T15:27:39Z",
+      "updated_at": "2026-10-11T11:51:56Z",
       "url": "https://github.com/naveenvarma999/naveenvarma999"
+    },
+    {
+      "name": "naveenvarma999.github.io",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-10-11T11:06:34Z",
+      "url": "https://github.com/naveenvarma999/naveenvarma999.github.io"
+    },
+    {
+      "name": "nexus-rag",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "updated_at": "2026-10-11T10:54:01Z",
+      "url": "https://github.com/naveenvarma999/nexus-rag"
     },
     {
       "name": "Numpy",
@@ -268,7 +286,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-02-26T16:39:30Z",
+      "updated_at": "2026-10-11T09:52:58Z",
       "url": "https://github.com/naveenvarma999/Strings"
     },
     {
