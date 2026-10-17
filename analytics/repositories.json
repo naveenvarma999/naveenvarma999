@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T11:35:56.658705+00:00",
+  "fetched_at": "2026-10-17T10:55:11.710916+00:00",
   "repos": [
     {
       "name": "API",
@@ -66,11 +66,11 @@
     },
     {
       "name": "DVC-Learning",
-      "language": null,
+      "language": "Python",
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-15T13:56:24Z",
+      "updated_at": "2026-10-16T16:46:13Z",
       "url": "https://github.com/naveenvarma999/DVC-Learning"
     },
     {
@@ -124,7 +124,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-15T11:42:34Z",
+      "updated_at": "2026-10-16T13:35:43Z",
       "url": "https://github.com/naveenvarma999/github-actions-learning"
     },
     {
@@ -196,7 +196,7 @@
       "stars": 0,
       "forks": 0,
       "fork": false,
-      "updated_at": "2026-10-15T11:42:29Z",
+      "updated_at": "2026-10-16T11:36:04Z",
       "url": "https://github.com/naveenvarma999/naveenvarma999"
     },
     {
